@@ -69,3 +69,8 @@ Answer: Follow the organization's password reset procedure.
 
 ## Project Type
 AI-powered automation / Agentic AI project
+
+
+## OUTPUT
+<img width="1140" height="454" alt="WhatsApp Image 2026-10-01 at 2 35 52 PM" src="https://github.com/user-attachments/assets/1826f8c2-c8d0-41c0-a05a-31ea43636166" />
+
